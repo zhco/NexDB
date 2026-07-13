@@ -1,0 +1,3 @@
+-keep class com.nexdb.** { *; }
+-dontwarn com.mysql.**
+-dontwarn com.jcraft.**
